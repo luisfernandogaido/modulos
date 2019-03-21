@@ -5,7 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("hello")
-	fmt.Println("xis")
-	fmt.Println("mandei alguma coisa")
+	fmt.Println("Meu nome é Luís Fernando Gaido.")
 }
